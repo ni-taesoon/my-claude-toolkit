@@ -1,0 +1,8 @@
+{
+  "name": "claude-code-workflow",
+  "description": "Claude code workflow",
+  "version": "1.0.0",
+  "author": {
+    "name": "taesoon park"
+  }
+}
