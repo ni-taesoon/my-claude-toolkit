@@ -1,5 +1,5 @@
 ---
-description: "Ask Oracle (GPT-5.2) for architecture advice, design decisions, or failure analysis"
+description: "Ask Oracle (GPT-5.2-Codex) for architecture advice, design decisions, or failure analysis"
 argument-hint: "QUESTION"
 allowed-tools:
   - Task
