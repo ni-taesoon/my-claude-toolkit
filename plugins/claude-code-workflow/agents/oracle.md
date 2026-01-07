@@ -8,8 +8,8 @@ allowed-tools:
   - Grep
   - Glob
   - AskUserQuestion
-  - mcp__plugin_ohmyclaude_gpt-as-mcp__codex
-  - mcp__plugin_ohmyclaude_gpt-as-mcp__codex-reply
+  - mcp__plugin_claudecodeworkflow_gpt-as-mcp__codex
+  - mcp__plugin_claudecodeworkflow_gpt-as-mcp__codex-reply
 ---
 
 # /oracle - Strategic Technical Advisor
